@@ -12,7 +12,9 @@
     "Profile": "Profile",
     "Logout": "logout",
     "AR": "ar",
-    "EN": "en"
+    "EN": "en",
+    "ar": "ar",
+    "en": "en"
   },
   "SideMenu": {
     "Dashboard": "Dashboard",
@@ -25,8 +27,8 @@
     "DashboardView2":"Dashboard view 2",
     "DashboardView3":"Dashboard view 3",
 
-    "DataList":"data-list",
-    "Forms":"forms",
+    "DataList":"Data List",
+    "Forms":"Forms",
     "Bootstrap":"Bootstrap",
     "NgMaterial":"Ng Material",
     "Custom":"Custom"
