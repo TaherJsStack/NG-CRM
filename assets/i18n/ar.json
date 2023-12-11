@@ -18,7 +18,18 @@
     "Dashboard": "لوحة القيادة",
     "Users": "المستخدمين",
     "List": "قائمة",
-    "AddNew": "اضف جديد"
+    "AddNew": "اضف جديد",
+
+    "Dashboards":"لوحات المعلومات",
+    "DashboardView1":"لوحة القيادة 1",
+    "DashboardView2":"لوحة القيادة 2",
+    "DashboardView3":"لوحة القيادة 3",
+
+    "DataList":"قوائم البيانات",
+    "Forms":"نماذج",
+    "Bootstrap":"بوتستراب",
+    "NgMaterial":"ماتريال",
+    "Custom":"مخصص"
   },
   "Dashboard": {
     "Overview": "ملخص",

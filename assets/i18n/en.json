@@ -18,7 +18,18 @@
     "Dashboard": "Dashboard",
     "Users": "Users",
     "List": "List",
-    "AddNew": "Add New"
+    "AddNew": "Add New",
+
+    "Dashboards":"Dashboards",
+    "DashboardView1":"Dashboard view 1",
+    "DashboardView2":"Dashboard view 2",
+    "DashboardView3":"Dashboard view 3",
+
+    "DataList":"data-list",
+    "Forms":"forms",
+    "Bootstrap":"Bootstrap",
+    "NgMaterial":"Ng Material",
+    "Custom":"Custom"
   },
   "Dashboard": {
     "Overview": "Overview",
